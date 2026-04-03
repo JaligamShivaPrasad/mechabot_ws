@@ -1,4 +1,4 @@
-# MechaBot — Autonompus Mobile Robot Simulation in Warehouse Environment
+# MechaBot — Autonomous Mobile Robot Simulation in Warehouse Environment
 
 Simulation-first Autonomous Mobile Robot (AMR) project for a small warehouse environment using:
 - ROS 2 Humble
