@@ -1,4 +1,4 @@
-# MechaBot — Warehouse AMR Simulation (ROS 2 + Gazebo Fortress)
+# MechaBot — Autonompus Mobile Robot Simulation in Warehouse Environment
 
 Simulation-first Autonomous Mobile Robot (AMR) project for a small warehouse environment using:
 - ROS 2 Humble
