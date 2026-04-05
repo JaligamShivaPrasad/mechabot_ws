@@ -49,7 +49,6 @@ Tip: use a fresh terminal and only source `/opt/ros/humble/setup.bash` before bu
 ros2 launch mechabot_bringup simulated_robot.launch.py
 
 ```
-   ![0405](https://github.com/user-attachments/assets/ebf02d64-c247-4078-b9fc-72c77b47a778)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ebf02d64-c247-4078-b9fc-72c77b47a778" width="1684" height="977">
